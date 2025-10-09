@@ -1,1 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+NBA/2021-2022[[:space:]]NBA[[:space:]]Player[[:space:]]Stats[[:space:]]-[[:space:]]Regular.csv filter=lfs diff=lfs merge=lfs -text
+NBA/2021-2022[[:space:]]NBA[[:space:]]Player[[:space:]]Stats[[:space:]]-[[:space:]]Playoffs.csv filter=lfs diff=lfs merge=lfs -text
+Salario/HR_Data_MNC_Data[[:space:]]Science[[:space:]]Lovers.csv filter=lfs diff=lfs merge=lfs -text
